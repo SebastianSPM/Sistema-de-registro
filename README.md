@@ -4,4 +4,4 @@
 
 Para actualizar el archivo es necesario:
 
-```npm install react ```
+```npm install react```
