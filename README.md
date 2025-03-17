@@ -5,3 +5,5 @@
 Para actualizar el archivo es necesario:
 
 ```npm install react```
+
+Sistema de Registro 2
